@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Kalam&family=Koulen&family=Rajdhani&family=Raleway:ital,wght@0,100;1,100&family=Satisfy&family=Shantell+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Kalam&family=Koulen&family=Open+Sans:ital,wght@1,300&family=Rajdhani&family=Raleway:ital,wght@0,100;1,100&family=Satisfy&family=Shantell+Sans:wght@500&display=swap');
 
 :root{
        --primary-color: #B9001F;
@@ -6,5 +6,4 @@
 }
 
 body{
-    font-family: 'Grape Nuts', cursive;  
-}
+    font-family: 'Kalam', cursive;}

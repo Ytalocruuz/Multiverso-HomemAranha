@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     color: white;
-    margin-top: 10pxgit ;
+    margin-top: 10px ;
 }
 
 .link-button .icon{
@@ -34,4 +34,5 @@
 
 .link-button .label{
     margin-left: 10px;
+    text-transform: uppercase;
 }
